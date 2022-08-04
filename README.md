@@ -1,2 +1,5 @@
 # tic-tac-toe
- Odin: JS project
+
+Made for The Odin Project.
+
+(Draw function could be added.)
